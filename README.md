@@ -26,8 +26,8 @@ The tool follows the standard Playfair algorithm rules:
 - **Concepts:** Digraph Cryptography, Matrix Manipulation, String Processing.
 
 ## 📁 Repository Structure
-- `src/`: Contains the Java source code for the Playfair algorithm.
-- `Documentation/`: Full technical report (PDF) detailing the encryption/decryption process and examples.
+- `src/`: Contains `PlayfairCipher.java` (The full Java implementation of the algorithm).
+- `Documentation/`: Full technical report (PDF) detailing the encryption/decryption process.
 
 ## 👥 The Team
 Developed by Computer Science students at **King Faisal University**:
